@@ -1,1 +1,1 @@
-[![VermiumSifell's GitHub stats](https://github-readme-stats.vercel.app/api?username=VermiumSifell)]
+![VermiumSifell's GitHub stats](https://github-readme-stats.vercel.app/api?username=VermiumSifell)
