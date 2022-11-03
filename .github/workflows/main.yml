@@ -29,7 +29,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          config_display: columns
+          config_octicon: yes
           config_timezone: Europe/Stockholm
+          config_twemoji: yes
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -78,3 +81,4 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
           plugin_repositories_pinned: 0
           plugin_repositories_starred: 0
+          repositories_forks: yes
